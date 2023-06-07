@@ -1,0 +1,16 @@
+.box {
+    width: 652px;
+    height: 1345px;
+    background-color: white;
+    border: #716E6E;
+}
+
+.text{
+    color: grey;
+}
+.text1{
+    color: #888181;
+}
+.text2{
+    color: #716E6E;
+}
